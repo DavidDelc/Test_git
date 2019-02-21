@@ -1,1 +1,2 @@
 Ceci est le texte du fichier1.txt
+Ajout d'une seconde ligne
